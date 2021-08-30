@@ -22,3 +22,12 @@ Basic menu system WIP. ^^
 
 
 PLEASE KEEP IN MIND THAT I AM NOT A BUILDER. I AM JUST A SCRIPTER.
+
+
+
+
+
+
+If there is something specific you want me to do send me a DM on discord or roblox talent hub. 
+
+E-Cancer#7533
