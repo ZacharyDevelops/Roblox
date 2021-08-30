@@ -8,15 +8,7 @@ I am a 13 year old autistic boy who enjoys everything about computers.
 
 Here is some examples of my basic roblox work.
 
-
-https://user-images.githubusercontent.com/86028315/127375978-5b350d36-7e1d-415f-96cd-7b1812973f88.mp4
-
-VERY BASIC WIP cafe ordering system. ^^
-
-
-https://user-images.githubusercontent.com/86028315/127376108-54de6cef-5c85-4c8d-bb7b-b6d3a0f9c53e.mp4
-
-Just some tweened keybind doors. (I am now using Proximity Prompt.) ^^
+![2da3f33cc41ae002b1c6ad25f8e88650](https://user-images.githubusercontent.com/86028315/131396926-739cafd3-f72a-4290-ac21-c0399c300bc2.png)
 
 
 https://user-images.githubusercontent.com/86028315/127376343-141c0cd4-b3c2-4f26-8d85-723043a8f5dc.mp4
